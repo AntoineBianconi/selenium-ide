@@ -3,7 +3,7 @@
   "repository": "git@github.com:SeleniumHQ/selenium-ide.git",
   "license": "Apache-2.0",
   "private": true,
-  "version": "1.O.O",
+  "version": "2.0.0",
   "scripts": {
     "start": "cd packages/selenium-ide && yarn start",
     "build": "lerna run build --ignore selenium-ide-extension-boilerplate",
